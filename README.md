@@ -2,8 +2,11 @@
 Imported functionalities:
 
 Undo - http://stackoverflow.com/questions/12030836/undo-functionality-in-jtextarea
+
 TextLineNumbering - https://github.com/WuXianglong/CMMCompiler/blob/master/CMMCompiler/src/util/TextLineNumber.java
+
 JTabbedPaneClosedButton - https://gist.github.com/6dc/0c8926f85d701a869bb2
+
 
 Home Page
 
